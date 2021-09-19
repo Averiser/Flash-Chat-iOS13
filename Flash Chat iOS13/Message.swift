@@ -1,5 +1,5 @@
 //
-//  Messagee.swift
+//  Message.swift
 //  Flash Chat iOS13
 //
 //  Created by MyMacBook on 18.09.2021.
